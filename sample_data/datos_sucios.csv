@@ -1,0 +1,7 @@
+id_transaccion,fecha,monto,usuario
+TX1001,2026-11-09,150.50,cristian
+TX1002,09/11/2026,3200.00,maria
+TX1001,2026-11-09,150.50,cristian
+TX1003,2026-11-08,monto_invalido,juan
+,,,
+TX1004,2026-11-07,450.25,pedro
